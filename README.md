@@ -5,3 +5,6 @@ The webApp will be deployed on Azure and will use Hyperledger Fabric and Compose
 -Increase the speed of vote counting
 
 Each user will have his/her vote counted while maintaining the anonymity of the user. We will use the already provided Certificate Authority by the Azure platform.
+
+
+Each voter and candidate will be a Participant in the network while the ballot and vote will be assests whose value will change when the participant executes a transaction.
